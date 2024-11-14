@@ -1,2 +1,2 @@
 # VidArts
-https://github.com/HugMak/StbVidFX.git).
+https://github.com/HugMak/StbVidFX.git
